@@ -22,19 +22,19 @@
     "url": "$ALIST_GLITCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glitch",
-    "status": "down",
-    "uptime": "97.63%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "97.63%",
-    "time": 4711,
-    "timeDay": 4711,
-    "timeWeek": 4711,
-    "timeMonth": 4711,
-    "timeYear": 4711,
+    "status": "up",
+    "uptime": "96.37%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
+    "time": 3812,
+    "timeDay": 3812,
+    "timeWeek": 3812,
+    "timeMonth": 3812,
+    "timeYear": 3812,
     "dailyMinutesDown": {
-      "2024-02-14": 16
+      "2024-02-14": 25
     }
   },
   {
