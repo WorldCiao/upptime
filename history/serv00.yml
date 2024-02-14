@@ -1,7 +1,7 @@
-url: $alist_serv00
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-14T08:23:19.475Z
+url: https://wociao.eu.org
+status: up
+code: 200
+responseTime: 535
+lastUpdated: 2024-02-14T08:28:19.259Z
 startTime: 2024-02-14T08:17:03.640Z
 generator: Upptime <https://github.com/upptime/upptime>
