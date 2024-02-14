@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wociao.eu.org.ico",
     "slug": "serv00",
     "status": "up",
-    "uptime": "0.76%",
-    "uptimeDay": "0.76%",
-    "uptimeWeek": "0.76%",
-    "uptimeMonth": "0.76%",
-    "uptimeYear": "0.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 535,
     "timeDay": 535,
     "timeWeek": 535,
     "timeMonth": 535,
     "timeYear": 535,
-    "dailyMinutesDown": {
-      "2024-02-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "glitch",
