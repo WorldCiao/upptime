@@ -1,7 +1,7 @@
 url: $ALIST_GLITCH
-status: down
-code: 504
-responseTime: 16907
-lastUpdated: 2024-02-29T14:59:00.377Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2024-02-29T15:17:07.756Z
 startTime: 2024-02-14T08:17:06.064Z
 generator: Upptime <https://github.com/upptime/upptime>
